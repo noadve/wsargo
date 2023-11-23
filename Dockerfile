@@ -1,1 +1,1 @@
-FROM ghcr.io/eoovve/ws-2go:latest
+FROM ghcr.io/eoovve/ws-2go:latest 
